@@ -1,16 +1,15 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.910180
+#+DATE: 2015-08-30 20:49:59.919229
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0011_T_049-0367b> 
 #+PROPERTY: JUAN 49
-
- 《阿毘曇毘婆沙論》卷第四十九¶
+《阿毘曇毘婆沙論》卷第四十九¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -271,11 +270,7 @@
 十善業道是法。十不善業道是非法。如是等¶
 法尚應斷。何況非法。¶
 
-2他心智品
-:PROPERTIES:
-:head: 《阿毘曇毘婆沙論》智犍度他心智品第二
-:END:
-¶
+《阿毘曇毘婆沙論》智犍度他心智品第二¶
 
 云何他人心智。云何念前世智。如是章及解¶
 章義。此中應廣說優波提舍。問曰。彼尊者¶

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.780784
+#+DATE: 2015-08-30 20:49:58.860234
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0011_T_019-0135c> 
 #+PROPERTY: JUAN 19
 ¶
-
- 《阿毘曇毘婆沙論》卷第十九¶
+《阿毘曇毘婆沙論》卷第十九¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-5無慚愧品
-:PROPERTIES:
-:head: 雜揵度無慚愧品第五
-:END:
-¶
+雜揵度無慚愧品第五¶
 
 云何無慚云何無愧如此章及解章義。此中應¶
 廣說優波提舍。問曰。何故作此論。答曰。以此¶
