@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.250726
+#+DATE: 2015-08-30 20:49:52.725546
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0011_T_005-0031c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《阿毘曇毘婆沙論》卷第五¶
+《阿毘曇毘婆沙論》卷第五¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-2智品
-:PROPERTIES:
-:head: 雜犍度智品第二
-:END:
-¶
+雜犍度智品第二¶
 
 頗有一智知一切法耶。如此章及解章義。是¶
 中應廣說。優波提舍。問曰。何以作此論。答¶
@@ -321,7 +316,7 @@
 尚非厭離行。問曰。若是欣尚行者。云何能¶
 緣苦集。答曰。雖緣苦集。故是欣尚行。所以者¶
 何。設使彼多緣有漏法。少緣無漏法。而於無¶
-漏法故是欣尚行。如銅錢𧂐上置一金錢。銅¶
+漏法故是欣尚行。如銅錢[卄/積]上置一金錢。銅¶
 錢雖多。得一金錢。猶生欣尚。彼亦如是。問曰。¶
 此行為斷結不耶。答曰。不斷。問曰。若不斷¶
 結。何用起現在前。答曰。欲令心猛利故。心若

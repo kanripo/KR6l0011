@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.953716
+#+DATE: 2015-08-30 20:49:53.313328
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0011_T_023-0167c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
-
- 《阿毘曇毘婆沙論》卷第二十三¶
+《阿毘曇毘婆沙論》卷第二十三¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-8思品
-:PROPERTIES:
-:head: 雜揵度思品第八上
-:END:
-¶
+雜揵度思品第八上¶
 
 云何為思。云何為憶乃至廣說。如此章及解¶
 章義。此中應說憂波提舍。問曰。何故作此¶

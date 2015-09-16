@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.879546
+#+DATE: 2015-08-30 20:49:54.153791
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0011_T_048-0361c> 
 #+PROPERTY: JUAN 48
 ¶
-
- 《阿毘曇毘婆沙論》卷第四十八¶
+《阿毘曇毘婆沙論》卷第四十八¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
