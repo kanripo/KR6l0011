@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.747298
+#+DATE: 2015-08-30 20:49:55.958367
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0011_T_018-0129c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第十八¶
+《阿毘曇毘婆沙論》卷第十八¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -119,8 +118,7 @@
 也。問曰。何故說盡智無生智是無學解脫知¶
 見身耶。答曰。以是解脫人身中生故。¶
 
-問曰。無學慧身。無學解脫。知見身。有何差¶
-別。答曰。無學苦智集智。是無學慧身。所以者¶
+問曰。無學慧身。無學解脫。知見身。有何差別。答曰。無學苦智集智。是無學慧身。所以者¶
 何。此二智緣縛法故。無學滅智道智。是無學¶
 解脫知見身。所以者何。緣無縛法故。復次無¶
 學苦智集智滅智。是無學慧身。所以者何。此¶

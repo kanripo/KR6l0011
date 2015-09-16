@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.245293
+#+DATE: 2015-08-30 20:49:56.394440
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0011_T_031-0222c> ¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第三十一¶
+《阿毘曇毘婆沙論》卷第三十一¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-2一行品
-:PROPERTIES:
-:head: 使犍度一行品第二上
-:END:
-¶
+使犍度一行品第二上¶
 
 九結。愛結。恚結。慢結。無明結。見結。取結。疑¶
 結。嫉結。慳結。若處所有愛結繫。復有恚結繫¶

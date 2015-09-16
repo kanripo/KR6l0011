@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:37.105346
+#+DATE: 2015-08-30 20:49:57.201251
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0011_T_056-0395a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 56
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第五十六¶
+《阿毘曇毘婆沙論》卷第五十六¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-:PROPERTIES:
-:head: 智揵度修智品第三之二
-:END:
-¶
+智揵度修智品第三之二¶
 
 問曰。若然者何故阿羅漢起苦集智現在¶
 前耶。答曰。欲觀此五陰。猶如重擔過患法故。¶
