@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:57.146862
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
