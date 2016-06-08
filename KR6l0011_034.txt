@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.347171
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
@@ -18,7 +18,8 @@
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-3人品
+** 3人品
+*** 1
 :PROPERTIES:
 :head: 使犍度人品第三上
 :END:
