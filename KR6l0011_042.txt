@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:45.452870
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
@@ -664,9 +664,9 @@
 　終不能劫奪
 　男子女人福¶
 　福藏最堅牢
-　終無有亡失
+　終無有亡失」
 #+END_VERSE
-」
+
 <pb:KR6l0011_T_042-0318c>¶
 
 問曰。如非福火。亦不能燒。何故但說福耶。答¶
