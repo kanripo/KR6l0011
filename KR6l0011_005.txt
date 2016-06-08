@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.250726
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_005-0031c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《阿毘曇毘婆沙論》卷第五¶
+《阿毘曇毘婆沙論》卷第五¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-2智品
-:PROPERTIES:
-:head: 雜犍度智品第二
-:END:
-¶
+** 雜犍度智品第二¶
 
 頗有一智知一切法耶。如此章及解章義。是¶
 中應廣說。優波提舍。問曰。何以作此論。答¶
@@ -185,9 +180,9 @@
 「　若能以智觀
 　一切行無我¶
 　能生厭苦心
-　是道得清淨
+　是道得清淨」
 #+END_VERSE
-」¶
+¶
 
 此偈當知說諸行無我。問曰。如說能生厭苦¶
 心。此云何能緣一切法。答曰。有說者初半偈¶

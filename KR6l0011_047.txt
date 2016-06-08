@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.848068
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_047-0355a> 
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第四十七¶
+《阿毘曇毘婆沙論》卷第四十七¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -69,9 +68,9 @@
 「　不放逸放逸
 　睡眠覺寤者¶
 　猶如利鈍馬
-　前發者先至
+　前發者先至」
 #+END_VERSE
-」¶
+¶
 
 猶如二人俱至一方。一乘疾馬。一乘鈍馬。雖¶
 乘鈍馬。以前發故。先有所至。如是信解脫人。¶
@@ -490,9 +489,9 @@
 「　遠離惡不善
 　安住善住中¶
 　應受世上供
-　故名阿羅漢
+　故名阿羅漢」
 #+END_VERSE
-」¶
+¶
 
 復次應受最勝供養故。名阿羅漢。一切沙門。¶
 所應用物。無有不應受者。漏盡者。問曰。如漏¶

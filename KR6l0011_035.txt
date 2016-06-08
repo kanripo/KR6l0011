@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.376898
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_035-0252a> ¶¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第三十五¶
+《阿毘曇毘婆沙論》卷第三十五¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -519,8 +518,7 @@
 如是。所以者何。有為須陀洹果無為須陀洹¶
 果皆是無漏故。斯陀含成就諸無漏法。彼法¶
 斯陀含果攝耶。答曰。或攝或不攝。云何攝。答¶
-曰。斯陀含果。得已不失。得者信解脫性得¶
-信解脫斯陀含果。見到得見到性斯陀含果。¶
+曰。斯陀含果。得已不失。得者信解脫性得信解脫斯陀含果。見到得見到性斯陀含果。¶
 三界見道所斷結斷。及欲界修道所斷六種¶
 結斷。不失者信解脫不轉根作見到。不失信¶
 解脫性斯陀含果。云何不攝斯陀含果前進。¶

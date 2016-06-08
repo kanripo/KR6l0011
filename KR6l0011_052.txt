@@ -1,22 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:37.008075
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_052-0380c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 52
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第五十二¶
+《阿毘曇毘婆沙論》卷第五十二¶
 ¶
 迦旃延子造　五百羅漢釋¶
-北涼天竺沙門浮陀跋摩¶
-共道泰等譯¶
+北涼天竺沙門浮陀跋摩共道泰等譯¶
 智揵度他心智品第二之四¶
 
 我生已盡者。為盡過去生。為盡未來生。為¶

@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.707563
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_017-0121c> 
 #+PROPERTY: JUAN 17
 ¶
-
- 《阿毘曇毘婆沙論》卷第十七¶
+《阿毘曇毘婆沙論》卷第十七¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -205,9 +204,9 @@
 「　瞿曇坐樹下
 　禪思不放逸¶
 　不久履道迹
-　涅槃在心中
+　涅槃在心中」
 #+END_VERSE
-」¶
+¶
 
 答曰。如尊者波奢所說言。涅槃在心中者。心¶
 中成就涅槃得故。何故名可樂者。以離一切¶

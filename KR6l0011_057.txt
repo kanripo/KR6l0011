@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:37.133876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_057-0399b> ¶¶
 #+PROPERTY: JUAN 57
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第五十七¶
+《阿毘曇毘婆沙論》卷第五十七¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-4相應品
-:PROPERTIES:
-:head: 智揵度相應品第四之一
-:END:
-¶
+** 智揵＝犍【明】揵度揵度相應品第四之一¶
 
 七人。堅信。堅法。信解脫。見到。身證。慧解脫。¶
 俱解脫人。八智。三三昧。三根。七覺支。八道¶

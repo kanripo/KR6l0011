@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:35.218314
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_004-0026a> ¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第四¶
+《阿毘曇毘婆沙論》卷第四¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
 共道泰等譯¶
 
-:PROPERTIES:
-:head: 雜犍度世第一品之四
-:END:
-¶
+** 雜犍度世第一品之四¶
 
 此二十種身見。幾是我見。幾是我所見。乃¶
 至廣說。問曰。何故作此論。答曰。世尊經中。¶
@@ -423,16 +419,16 @@
 
 有因無因見。乃至廣說。彼諸外道。以何事故。¶
 言無因耶。答曰。見內外所有諸物有種種相¶
-故。彼作是言誰鑿河誰積山。誰纖刺誰釆畫¶
+故。彼作是言誰鑿河誰積山。誰纖刺誰采畫¶
 禽獸。故說是偈。¶
 
 #+BEGIN_VERSE
 「　誰能造刺纖
-　釆畫諸禽獸¶
+　采畫諸禽獸¶
 　此皆無因作
-　世無自在者
+　世無自在者」
 #+END_VERSE
-」¶
+¶
 
 彼有因無因見。此名邪見。是其自性。見集所¶
 斷。是其對治。此見緣集生。還見集斷。乃至廣¶

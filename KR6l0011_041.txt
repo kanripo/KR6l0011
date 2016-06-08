@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.606436
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_041-0303a> 
 #+PROPERTY: JUAN 41
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第四十一¶
+《阿毘曇毘婆沙論》卷第四十一¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -376,9 +375,9 @@
 「　佛以一音演說法
 　而現種種若干義¶
 　眾生皆謂獨為我
-　解說諸法不為他
+　解說諸法不為他」
 #+END_VERSE
-」¶
+¶
 
 一音者謂梵音。現種種義者。若會中有真丹人¶
 者。謂佛以真丹語。為我說法。如有釋迦人夜¶

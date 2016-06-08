@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.685242
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_043-0320b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第四十三¶
+《阿毘曇毘婆沙論》卷第四十三¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -186,9 +185,9 @@
 「　鬼神以惡心
 　而來趣向人¶
 　雖未加毒害
-　心已懷恐怖
+　心已懷恐怖」
 #+END_VERSE
-」
+
 <pb:KR6l0011_T_043-0322b>¶
 
 如鬼以惡心來。尚能生苦。何況如來善心。而¶
@@ -322,7 +321,7 @@
 佛。在一面坐。爾時世尊隨宜說法。俱得見諦。¶
 世人皆言。世尊遍慈。乃至及摩訶先尼。是中¶
 遍慈者。謂以藥草與他。餘處亦以藥與他。曾¶
-聞波斯匿王斷賊手足。擲棄塹中。爾時世尊¶
+聞波斯匿王斷賊手足。擲棄塹中。彌時世尊¶
 以日初分。著衣持鉢。入舍衛城乞食。時賊見¶
 佛。舉聲大喚。我今苦厄。願見哀愍。世尊善知¶
 內緣起法。亦復善知外緣起法。即以神力。至¶

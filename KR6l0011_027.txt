@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.099080
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_027-0196b> ¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第二十七¶
+《阿毘曇毘婆沙論》卷第二十七¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -515,8 +514,7 @@
 我等好。阿修羅於女慳惜。不欲令出。於食生¶
 嫉言。於我等好。諸天為女故。下詣阿修羅城。¶
 阿修羅為食故。上詣天城。以是事故。天阿修¶
-羅。數數共鬪。爾時帝釋。從戰陣出。心懷恐¶
-怖戰慄。未久之間。往詣佛所。而白佛言。天人¶
+羅。數數共鬪。爾時帝釋。從戰陣出。心懷恐怖戰慄。未久之間。往詣佛所。而白佛言。天人¶
 阿修羅等。以何結故。數數共鬪。世尊以方¶
 便力。而作是說。帝釋當知。以嫉慳二結。為汝¶
 作患。生恐怖厄難。猶如重擔。以是事故。人天¶

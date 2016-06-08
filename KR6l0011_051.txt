@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.977305
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_051-0377b> 
 #+PROPERTY: JUAN 51
 ¶
-
- 《阿毘曇毘婆沙論》卷第五十一¶
+《阿毘曇毘婆沙論》卷第五十一¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -135,9 +134,9 @@
 「　安樂以為母
 　無憂以為父¶
 　寂靜以為妻
-　不久汝當得
+　不久汝當得」
 #+END_VERSE
-」¶
+¶
 
 見聞是事。心生厭患。然後出家。過去諸佛。亦¶
 為菩薩。說道具諸法。如是等。豈非外緣力耶。¶
@@ -250,7 +249,7 @@
 如說時解脫是愛法。問曰。何故時解脫是¶
 愛法耶。答曰。如經本說。時解脫阿羅漢。守護¶
 愛重此法。使我於此法莫退。如人唯有一目。¶
-其家眷屬。皆共護之。不令冷熱風坌而毀壞¶
+其家眷屬。皆共護之。不令泠熱風坌而毀壞¶
 之。彼亦如是。復次時解脫阿羅漢。於解脫不¶
 得自在。多用功乃現在前。起現在故。心生歡¶
 喜故。名愛法。非時解脫。於解脫得自在。不多¶

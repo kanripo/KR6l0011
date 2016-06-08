@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:49:36.280754
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:23
 #+TITLE: 阿毘曇毘婆沙論
 #+PROPERTY: CBETA_ID T28n1546
 #+PROPERTY: ID KR6l0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1546
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0011_T_032-0231c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 《阿毘曇毘婆沙論》卷第三十二¶
+《阿毘曇毘婆沙論》卷第三十二¶
 ¶
 迦旃延子造　五百羅漢釋¶
 北涼天竺沙門浮陀跋摩¶
@@ -76,9 +75,9 @@
 「　因事生於愛
 　因事生於恚¶
 　世人起愛恚
-　無不因事者
+　無不因事者」
 #+END_VERSE
-」¶
+¶
 
 攝法攝自法者。一切時攝皆有所以。一切時¶
 攝者。無有不攝自相時皆有。所以者何。自體¶
@@ -199,8 +198,7 @@
 
 問曰。若然者。涅槃可畏。可是有耶。如說比丘¶
 當知。凡夫愚小。聞說涅槃無我無彼無我所¶
-須一切諸物。於此法中。生怖畏心。答曰。若¶
-畏有者。是正畏涅槃是邪。復次可畏法。凡¶
+須一切諸物。於此法中。生怖畏心。答曰。若畏有者。是正畏涅槃是邪。復次可畏法。凡¶
 夫聖人俱畏。涅槃唯凡夫所畏。非聖人所畏。¶
 復次是苦器故名有。¶
 
